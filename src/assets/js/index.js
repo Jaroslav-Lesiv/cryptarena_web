@@ -1,3 +1,3 @@
 // import "babel-polyfill";
 
-alert('adfdgadwfgbfedfn')
+// alert('adfdgadwfgbfedfn')
